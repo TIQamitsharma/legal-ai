@@ -15,6 +15,8 @@ To install, open Codex / Claude and paste this prompt:
 
 `Install vCLO from https://github.com/rohasnagpal/legal-ai-skills and say hello vCLO.`
 
+<img width="1552" height="949" alt="image" src="https://github.com/user-attachments/assets/99efec5e-b82c-4a23-adb4-9fddf1581f1c" />
+
 ---
 **Virtual Chief Legal Officer (vCLO):** Coordinates specialist virtual lawyers, jurisdiction-specific counsel, legal skills and end-to-end workflows to handle each matter.
 
