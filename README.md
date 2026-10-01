@@ -1,4 +1,4 @@
-# Build an entire AI-powered law firm in 60 seconds.
+# Spin up your very own AI-powered virtual Law Firm in 80 seconds
 
 Install this into your Codex or Claude and you get:
 
